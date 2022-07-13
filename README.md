@@ -1,30 +1,24 @@
-
 # Icon - Infrastrcutre Deployment Using Terraform
 
 ## Development / Build Envionment
 
 * Version : Terraform v1.2.4
-
 * Platform : darwin_arm64
-
 * Provider : azurerm
-
 * Provider Version : >=2.78.0
 
 ## Deployment Envionment
 
 * Microsfot Azure
-
 * Virtual Machines (1)
-
 * App Services (2)
-
 * SQL DB Instances (2)
-
 * Storage Blob (1)
 
-#### Repository : [https://github.com/dimuit86/icon.infra.deploy.git](https://github.com/dimuit86/icon.infra.deploy.git)
-  
+#### Repositories : 
+Infratrcuture Deployment Terraform Manifests: [https://github.com/dimuit86/icon.infra.deploy.git](https://github.com/dimuit86/icon.infra.deploy.git)
+
+Application Deployment Pipeline : [https://github.com/dimuit86/icon-dotnet-core-app.git](https://github.com/dimuit86/icon-dotnet-core-app.git)
 
 ## Modularized Terraform hierarchy
 
