@@ -23,10 +23,10 @@
 
 * Storage Blob (1)
 
-#### Repository : 
+#### Repository : [https://github.com/dimuit86/icon.infra.deploy.git](https://github.com/dimuit86/icon.infra.deploy.git)
   
 
-## Modularized Terraform Hirarchy
+## Modularized Terraform hierarchy
 
     ├── README.MD
     ├── app-svc-prod.tf
